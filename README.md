@@ -22,16 +22,19 @@ This is a Mini-Project for SC1015 (Intro To Data Science and Artificial Intellig
 
 |  Name  |  Area of Focus  |  GitHub Account  |
 |  ---  |  ---  | --- |
-|  Suki Ng  |  Data Preparation, Data Cleaning, Data Visualisation, Machine Learning, Presentation  |
-|  Issac Lim  |  Data Preparation, Data Visualisation, Machine Learning, Presentation  |
-|  Tay Shu Shuang  |  Data Preparation, Data Cleaning, Data Visualisation, Presentation  |
+|  Suki Ng  |  Data Preparation, Data Visualisation, Machine Learning, Presentation, Github Respository  |
+|  Issac Lim  |  Data Preparation, Data Cleaning, Data Visualisation, Presentation, Github Respository  |
+|  Tay Shu Shuang  |  Data Preparation, Data Visualisation, Machine Learning, Presentation, Github Respository  |
 
 ## Problem Definition
 
 
 ## Models Used
 
-Random Forest Regression
+- Chi-Square Test
+- Naive Bayes
+- Decision Tree
+- Random Forest Regression
 
 ## What we learned from this project
 
