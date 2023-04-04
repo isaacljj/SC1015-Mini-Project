@@ -30,7 +30,7 @@ This is a Mini-Project for SC1015 (Intro To Data Science and Artificial Intellig
 According to the World Health Organization (WHO) stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths.
 We want to use data science and ML to predict the occurrence of stroke for early detection and treatment. According to research, if stroke is detected or diagnosed early, the loss of death and severe damage to brain can be prevented in 85% cases
 
-
+![Person with stroke](stroke.jpeg)
 
 ## Models Used
 
