@@ -28,7 +28,8 @@ This is a Mini-Project for SC1015 (Intro To Data Science and Artificial Intellig
 
 ## Problem Definition
 According to the World Health Organization (WHO) stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths.
-We want to use data science and ML to predict the occurrence of stroke for early detection and treatment. 
+We want to use data science and ML to predict the occurrence of stroke for early detection and treatment. According to research, if stroke is detected or diagnosed early, the loss of death and severe damage to brain can be prevented in 85% cases
+
 
 
 ## Models Used
@@ -54,4 +55,5 @@ https://www.kaggle.com/code/neereshkumar/stroke-prediction-data-analysis/noteboo
 https://www.kaggle.com/code/marwanyasser/stroke-prediction
 https://www.kaggle.com/code/olukayodeifeoluwapo/stroke-analysis
 https://www.kaggle.com/code/monkeyhaha/stroke-prediction-eda-model-selectio
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9017592/
 
