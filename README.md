@@ -40,8 +40,10 @@ We want to use data science and ML to predict the occurrence of stroke for early
 - Random Forest Regression
 
 ## What we learned from this project
-
-
+- We learnt how to make use of Chi-Square Test and Naive Bayes to select variables that can help us predict stroke
+- We learnt how to use Random Forest Regression to plot a more accurate decision tree to help us predict stroke
+- We learnt how to use Synthetic Minority Oversampling Technique (SMOTE) to oversample the data of people with stroke so that our dataset will be more balanced.
+- 
 ## Conclusion
 
 
