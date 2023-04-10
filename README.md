@@ -47,7 +47,15 @@ We want to use data science and ML to predict the occurrence of stroke for early
 - Collaborating using Google Colab notebooks and Github
  
 ## Conclusion
+We noticed that in general, the BMI is above 30 as seen in the box plot and that is abnormal as the average BMI is between 18.5 to 24.9. (box plot description) Thus a large number of the respondents are obese and this may make BMI seem like a negligible factor in predicting stroke, which is what we concluded. In order to overcome this, the data can be obtained from different geographical locations, to ensure that the BMI is more spreaded out. 
+We also deduced from our findings that the risk of stroke is increased by the existence of heart disease, hypertension and high glucose levels. Additionally, there is a clear link between age and stroke, and this can be associated with the fact that older people are more susceptible to stroke. There is no clear link between stroke and work type, residence type, gender and smoking status. 
+To answer our initial question on which factor is the most important to predict the occurrence of stroke, there is no one clear factor to predict stroke since the correlation between stroke and the other factors is 0.38 or less, which is not very accurate. Hence, the combination of the few factors which have been mentioned above are important factors which have to be considered concurrently when predicting the occurrence of stroke. Below we will be including some recommendations to reduce the risk of stroke based on our findings.
 
+Some recommendations based on our findings:
+1) Since age is an irreversible factor, we would recommend older patients to constantly monitor their health and visit doctors for health checkups regularly.
+2) People with conditions such as hypertension, heart disease and diabetes should be encouraged to have their doctors monitor them, in order to better prevent stroke. 
+3) The general public should be educated on the negative effects of excessive consumption of sugar to prevent high glucose levels.
+4) Overweight people should be encouraged to put in efforts to lose some weight such that they are within the healthy bmi range, in order to reduce their chances of having a stroke. 
 
 
 ## Datasets used
