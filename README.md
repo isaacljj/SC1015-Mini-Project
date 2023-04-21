@@ -2,7 +2,8 @@
 
 ## About
 
-This is a Mini-Project for SC1015 (Intro To Data Science and Artificial Intelligence) which uses the datasets from Kaggle to analyse how having stroke can be affected by different predictors and to find a set of predictors that can be used to predict stroke. We did data preparation and cleaning, data visualization and analysis as well as machine learning.
+This is a Mini-Project for SC1015 (Intro To Data Science and Artificial Intelligence) which uses the datasets from Kaggle to analyse how having stroke can be affected by different predictors and to find a set of predictors that can be used to predict stroke. We did data preparation and cleaning, data visualization and analysis as well as machine learning. Hence, we want to use data science and ML to predict the occurrence of stroke for early detection and treatment. 
+We wish to find out which factors are the most important in predicting the occurrence of stroke, and perhaps how we can prevent the aggravation of such factors.
 
 ### 1. Data Preparation and Cleaning
 - initial data exploration to prepare for cleaning
@@ -68,4 +69,5 @@ https://www.kaggle.com/code/marwanyasser/stroke-prediction
 https://www.kaggle.com/code/olukayodeifeoluwapo/stroke-analysis
 https://www.kaggle.com/code/monkeyhaha/stroke-prediction-eda-model-selectio
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9017592/
+https://www.cdc.gov/healthyweight/assessing/index.html#:~:text=If%20your%20BMI%20is%2018.5,falls%20within%20the%20obese%20range.
 
