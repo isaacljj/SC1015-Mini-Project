@@ -22,9 +22,9 @@ This is a Mini-Project for SC1015 (Intro To Data Science and Artificial Intellig
 
 |  Name  |  Area of Focus  |  GitHub Account  |
 |  ---  |  ---  | --- |
-|  Suki Ng  |  Data Preparation, Data Visualisation, Machine Learning, Presentation, Github Respository  |
+|  Suki Ng  |  Data Preparation, Data Visualisation, Machine Learning, Presentation, Github Respository  | @Sukingg
 |  Issac Lim  |  Data Preparation, Data Cleaning, Data Visualisation, Presentation, Github Respository  |
-|  Tay Shu Shuang  |  Data Preparation, Data Visualisation, Machine Learning, Presentation, Github Respository  |
+|  Tay Shu Shuang  |  Data Preparation, Data Visualisation, Machine Learning, Presentation, Github Respository  | @shuangshuu
 
 ## Problem Definition
 According to the World Health Organization (WHO) stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths.
