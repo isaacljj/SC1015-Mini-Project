@@ -24,7 +24,7 @@ We wish to find out which factors are the most important in predicting the occur
 |  Name  |  Area of Focus  |  GitHub Account  |
 |  ---  |  ---  | --- |
 |  Suki Ng  |  Data Preparation, Data Visualisation, Machine Learning, Presentation, Github Respository  | @Sukingg
-|  Issac Lim  |  Data Preparation, Data Cleaning, Data Visualisation, Presentation, Github Respository  | @isaacljj
+|  Isaac Lim  |  Data Preparation, Data Cleaning, Data Visualisation, Presentation, Github Respository  | @isaacljj
 |  Tay Shu Shuang  |  Data Preparation, Data Visualisation, Machine Learning, Presentation, Github Respository  | @shuangshuu
 
 ## Problem Definition
